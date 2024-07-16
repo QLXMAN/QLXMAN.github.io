@@ -1,0 +1,699 @@
+{
+  "Monday": [],
+  "Tuesday": [
+    {
+      "event_time": "11:00",
+      "event_title": "ATP World Tour 500: Hamburg",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      ]
+    },
+    {
+      "event_time": "12:30",
+      "event_title": "ATP World Tour 250: Bastad",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv3.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Italy W x Finland W",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd7.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Porto x Al Arabi",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Spain W x Belgium W",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv3.php",
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Sweden W x England W",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Germany W x Austria W",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv5.php"
+      ]
+    },
+    {
+      "event_time": "19:30",
+      "event_title": "São Paulo U17 x Fluminense U17",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "19:45",
+      "event_title": "Hibernian x Queen's Park",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd1.php"
+      ]
+    },
+    {
+      "event_time": "21:30",
+      "event_title": "NBA: New York Knicks @ Brooklyn Nets",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "22:00",
+      "event_title": "Envigado x La Equidad",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Huachipato x Racing",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Juventude x Atlético Mineiro",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "23:30",
+      "event_title": "NBA: Chicago Bulls @ Detroit Pistons",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "00:10",
+      "event_title": "Rionegro Águilas x América de Cali",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "00:30",
+      "event_title": "USA W x Costa Rica W",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php",
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "01:00",
+      "event_title": "Corinthians x Criciúma",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br3.php",
+        "https://v3.sportsonline.si/channels/bra/br4.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Rosario Central x Internacional",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br2.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "NBA: Washington Wizards @ Portland Trail Blazers",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "02:00",
+      "event_title": "Atlas x Santos Laguna",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    },
+    {
+      "event_time": "02:20",
+      "event_title": "Deportivo Cali x Deportivo Pereira",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "03:30",
+      "event_title": "NBA: New Orleans Pelicans @ San Antonio Spurs",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "04:00",
+      "event_title": "Puebla x León",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    }
+  ],
+  "Wednesday": [
+    {
+      "event_time": "10:00",
+      "event_title": "ATP World Tour 250: Bastad",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv3.php"
+      ]
+    },
+    {
+      "event_time": "11:00",
+      "event_title": "ATP World Tour 500: Hamburg",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      ]
+    },
+    {
+      "event_time": "16:30",
+      "event_title": "Beşiktaş x Shakhtar Donetsk",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    },
+    {
+      "event_time": "17:00",
+      "event_title": "Erzgebirge Aue x Borussia Dortmund",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd1.php",
+        "https://v3.sportsonline.si/channels/hd/hd3.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Olot x Girona",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Dinamo Batumi x Ludogorets",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd8.php"
+      ]
+    },
+    {
+      "event_time": "19:00",
+      "event_title": "Hearts x Tottenham Hotspur",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "20:30",
+      "event_title": "Sporting CP x Union Saint-Gilloise",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd11.php"
+      ]
+    },
+    {
+      "event_time": "20:30",
+      "event_title": "NBA: Sacramento Kings @ New York Knicks",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "22:30",
+      "event_title": "NBA: Boston Celtics @ Charlotte Hornets",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Atlético Goianiense x Vasco da Gama",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br2.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Libertad x Universidad Católica",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "00:00",
+      "event_title": "São Paulo x Grêmio",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "00:00",
+      "event_title": "Santa Fe x Deportivo Pasto",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "01:00",
+      "event_title": "NBA: Phoenix Suns 2 Oklahoma City Thunder",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Botafogo x Palmeiras",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br3.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Fortaleza x Vitória",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br4.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Independiente del Valle x Boca Juniors",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Barcelona x RB Bragantino",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "02:00",
+      "event_title": "Juárez x Pumas UNAM",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    },
+    {
+      "event_time": "02:10",
+      "event_title": "Alianza Petrolera x Atlético Nacional",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "03:00",
+      "event_title": "NBA: Golden State Warriors @ Cleveland Cavaliers",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "04:00",
+      "event_title": "Tigres UANL x América",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    }
+  ],
+  "Thursday": [
+    {
+      "event_time": "06:30",
+      "event_title": "The Open - D1",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv3.php"
+      ]
+    },
+    {
+      "event_time": "11:00",
+      "event_title": "ATP World Tour 500: Hamburg",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      ]
+    },
+    {
+      "event_time": "15:30",
+      "event_title": "Llapi x Wisła Kraków",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    },
+    {
+      "event_time": "17:30",
+      "event_title": "Ajax x Al Wasl",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd4.php"
+      ]
+    },
+    {
+      "event_time": "18:30",
+      "event_title": "Galatasaray x Trenčín",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd11.php"
+      ]
+    },
+    {
+      "event_time": "19:15",
+      "event_title": "Maribor x Botev Plovdiv",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd8.php"
+      ]
+    },
+    {
+      "event_time": "19:15",
+      "event_title": "Sporting Braga x Rayo Vallecano",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Palestino x Cuiabá",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br3.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "NBA: Mephis Grizzlies @ New Orleans Pelicans",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "00:00",
+      "event_title": "Atlético Bucaramanga x Junior",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "00:00",
+      "event_title": "Vila Nova x Santos",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "01:00",
+      "event_title": "Novorizontino x Chapecoense",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br2.php"
+      ]
+    },
+    {
+      "event_time": "01:00",
+      "event_title": "NBA: Orlando Magic @ Brooklyn Nets",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Cerro Porteño x Athletico-PR",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br4.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "LDU Quito x Always Ready",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd10.php"
+      ]
+    },
+    {
+      "event_time": "02:10",
+      "event_title": "Medellín x Millonarios",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "03:00",
+      "event_title": "NBA: LA Clippers @ Utah Jazz",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    }
+  ],
+  "Friday": [
+    {
+      "event_time": "06:30",
+      "event_title": "The Open - D2",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv3.php"
+      ]
+    },
+    {
+      "event_time": "08:50",
+      "event_title": "F3: Hungarian Practice",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "10:00",
+      "event_title": "ATP World Tour 250: Bastad",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php"
+      ]
+    },
+    {
+      "event_time": "10:00",
+      "event_title": "F2: Hungarian Practice",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "11:00",
+      "event_title": "ATP World Tour 500: Hamburg",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      ]
+    },
+    {
+      "event_time": "12:00",
+      "event_title": "F1: Hungarian Practice 1",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "14:00",
+      "event_title": "Ajax x Olympiakos Piraeus",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd4.php"
+      ]
+    },
+    {
+      "event_time": "14:00",
+      "event_title": "F3: Hungarian Qualifying",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "14:55",
+      "event_title": "F2: Hungarian Qualifying",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "15:45",
+      "event_title": "F1: Hungarian Practice 2",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd2.php",
+        "https://v3.sportsonline.si/channels/hd/hd7.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv4.php",
+        "https://v3.sportsonline.si/channels/bra/br5.php"
+      ]
+    },
+    {
+      "event_time": "16:30",
+      "event_title": "CSMS Iaşi x Botoşani",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd10.php"
+      ]
+    },
+    {
+      "event_time": "16:30",
+      "event_title": "Cherno More x CSKA 1948",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd8.php"
+      ]
+    },
+    {
+      "event_time": "17:00",
+      "event_title": "Greuther Fürth x St. Pauli",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd3.php"
+      ]
+    },
+    {
+      "event_time": "17:00",
+      "event_title": "Jagiellonia Białystok x Puszcza Niepołomice",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd11.php"
+      ]
+    },
+    {
+      "event_time": "18:00",
+      "event_title": "Austria Wien x Porto",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd1.php",
+        "https://v3.sportsonline.si/channels/pt/sporttv1.php",
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "19:00",
+      "event_title": "Krumovgrad x Slavia Sofia",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd8.php"
+      ]
+    },
+    {
+      "event_time": "19:30",
+      "event_title": "Unirea Slobozia x FCSB",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd10.php"
+      ]
+    },
+    {
+      "event_time": "19:30",
+      "event_title": "Śląsk Wrocław x Lechia Gdańsk",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd11.php"
+      ]
+    },
+    {
+      "event_time": "21:00",
+      "event_title": "NBA: Milwaukee Bucks @ Phoenix Suns",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "NBA: Atlanta Hawks @ Chicago Bulls",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Jaguares de Córdoba x Patriotas Boyacá",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "23:00",
+      "event_title": "Avaí x Ceará",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Coritiba x Mirassol",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br1.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "Fortaleza CEIF x Deportes Tolima",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd6.php"
+      ]
+    },
+    {
+      "event_time": "01:30",
+      "event_title": "NBA: Philadelphia 76ers @ San Antonio Spurs",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "02:00",
+      "event_title": "Atlético San Luis x Tijuana",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    },
+    {
+      "event_time": "02:00",
+      "event_title": "Boxing: Carlos Cañizales x Iván García",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/bra/br6.php"
+      ]
+    },
+    {
+      "event_time": "03:30",
+      "event_title": "NBA: Golden State Warriors @ Oklahoma City Thunders",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd5.php"
+      ]
+    },
+    {
+      "event_time": "04:05",
+      "event_title": "Puebla x Atlas",
+      "event_links": [
+        "https://v3.sportsonline.si/channels/hd/hd9.php"
+      ]
+    }
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
